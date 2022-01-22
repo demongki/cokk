@@ -10,7 +10,7 @@ apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
 apt install imagemagick -y
-git clone https://github.com/mrcrackeds/wa-bot
+git clone https://github.com/demongki/cokk
 cd wa-bot
 npm install
 npm start
@@ -45,7 +45,7 @@ apt install wget curl git ffmpeg imagemagick build-essential libcairo2-dev libpa
 ubuntu
 curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash -
 apt install -y nodejs gcc g++ make
-git clone https://github.com/mrcrackeds/wa-bot
+git clone https://github.com/demongki/cokk
 cd wa-bot
 npm install
 npm start
@@ -61,7 +61,7 @@ npm start
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/mrcrackeds/wa-bot
+git clone https://github.com/demongki/cokk
 cd wa-bot
 npm install
 npm start
