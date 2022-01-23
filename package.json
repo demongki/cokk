@@ -22,16 +22,16 @@
     "whatsapp",
     "js-whatsapp"
   ],
-  "homepage": "https://github.com/mrcrackeds/wa-bot",
+  "homepage": "https://github.com/demongki/cokk",
   "author": {
     "name": "mrcrackeds"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mrcrackeds/wa-bot.git"
+    "url": "git+https://github.com/demongki/cokk.git"
   },
   "bugs": {
-    "url": "https://github.com/mrcrackeds/wa-bot/issues"
+    "url": "https://github.com/demongki/cokk/issues"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
