@@ -45,7 +45,7 @@ const defaultMenu = {
 │ Uptime: *%uptime (%muptime)*
 │ Database: %rtotalreg of %totalreg
 │ Github:
-│ %github
+│ https://github.com/demongki/cokk
 ╰────
 %readmore`.trimStart(),
   header: '╭─「 %category 」',
